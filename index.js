@@ -1,4 +1,4 @@
-console.log(123)
+console.log(12)
 function add(a,b){
 	return a+b
 }
